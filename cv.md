@@ -1,9 +1,11 @@
-#1. Oleksandr Yehorov
+1. **Oleksandr Yehorov**
+
 2. Contact Information:
    Tel. +380505624750
    E-Mail sasha_yegorov@ukr.net
    Skype live: sasha_yegorov
    Github: github.com/oleksandr-yehorov
+
 3. About Me:
    * Well-organized
    * Sociable
@@ -14,12 +16,14 @@
    * Able to make decisions quickly
    * Self-confident
    * Ready to learn
+
 4. Skills:
    * Good knowledge of HTML, CSS and JavaScript
    * Basic knowledge of Bootstrap
    * Familiar with React
    * Basic knowledge of OOP
    * Familiar with Git version control
+
 5. Code examples:
 
             for (i = 0; i < A.length - 1; i++) {
