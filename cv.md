@@ -20,3 +20,34 @@
    * Familiar with React
    * Basic knowledge of OOP
    * Familiar with Git version control
+5. Code examples:
+    
+   '''javascript
+   function readData() {
+            let inputArray = document.getElementById('inputArray').value.replace(new RegExp('\n', 'g'), '').split(',').map(item => parseInt(item))
+            let isValid = true;
+            inputArray.forEach(function(elem){
+                if (isNaN(elem)){
+                    document.getElementById('validationError').innerHTML='Array contains non number element.';
+                    isValid = false;
+                }
+            });
+            return isValid ? inputArray : undefined;
+        }
+    '''
+    '''javascript
+    function CountingSort(A) {
+            let Count = [],
+                resultArr = [];
+            for (var i = 0; i < A.length; i++) Count[ i ] = 0;
+            
+            for (i = 0; i < A.length - 1; i++) {
+                for (var j = i+1; j < A.length; j++) {
+                    if (A[i] < A[j]) Count[j]++;
+                        else Count[i]++;
+                    }
+                }
+            for (i = 0; i < A.length; i++) resultArr[Count[i]] = A[i];
+            return resultArr;
+            }
+    '''
