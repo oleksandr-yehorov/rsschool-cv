@@ -1,1 +1,1 @@
-[GitHub](https://oleksandr-yehorov.github.io/rsschool-cv/cv)
+https://oleksandr-yehorov.github.io/rsschool-cv/cv
