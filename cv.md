@@ -21,8 +21,6 @@
    * Basic knowledge of OOP
    * Familiar with Git version control
 5. Code examples:
-    
-    '''
 
             for (i = 0; i < A.length - 1; i++) {
                 for (var j = i+1; j < A.length; j++) {
@@ -32,5 +30,3 @@
                 }
             for (i = 0; i < A.length; i++) resultArr[Count[i]] = A[i];
             return resultArr;
-
-    '''
