@@ -14,3 +14,9 @@
    * Able to make decisions quickly
    * Self-confident
    * Ready to learn
+4. Skills:
+   * Good knowledge of HTML, CSS and JavaScript
+   * Basic knowledge of Bootstrap
+   * Familiar with React
+   * Basic knowledge of OOP
+   * Familiar with Git version control
