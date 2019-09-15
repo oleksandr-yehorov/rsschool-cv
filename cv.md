@@ -34,3 +34,8 @@
 6. Experience:
    * Lecturer in Chernivtsi Polytechnical Collage
    * Lecturer, Assistant of Department in Interregional Academy of Personal Management
+
+7. Education:
+   * Kottans Chernivtsi Front-end Course 2019
+   * Yuriy Fedkovych Chernivtsi National University - Speciality 'Finance'
+   * Chernivtsi Lyceum № 1 - Physics and mathematics profile
