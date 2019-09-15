@@ -41,7 +41,6 @@
             let Count = [],
                 resultArr = [];
             for (var i = 0; i < A.length; i++) Count[ i ] = 0;
-            
             for (i = 0; i < A.length - 1; i++) {
                 for (var j = i+1; j < A.length; j++) {
                     if (A[i] < A[j]) Count[j]++;
