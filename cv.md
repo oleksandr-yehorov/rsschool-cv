@@ -22,7 +22,7 @@
    * Familiar with Git version control
 5. Code examples:
     
-   '''javascript
+   '''
    function readData() {
             let inputArray = document.getElementById('inputArray').value.replace(new RegExp('\n', 'g'), '').split(',').map(item => parseInt(item))
             let isValid = true;
@@ -35,7 +35,8 @@
             return isValid ? inputArray : undefined;
         }
     '''
-    '''javascript
+    
+    '''
     function CountingSort(A) {
             let Count = [],
                 resultArr = [];
