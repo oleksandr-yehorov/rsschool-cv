@@ -22,20 +22,6 @@
    * Familiar with Git version control
 5. Code examples:
     
-   '''
-   function readData() {
-            let inputArray = document.getElementById('inputArray').value.replace(new RegExp('\n', 'g'), '').split(',').map(item => parseInt(item))
-            let isValid = true;
-            inputArray.forEach(function(elem){
-                if (isNaN(elem)){
-                    document.getElementById('validationError').innerHTML='Array contains non number element.';
-                    isValid = false;
-                }
-            });
-            return isValid ? inputArray : undefined;
-        }
-    '''
-    
     '''
 
             for (i = 0; i < A.length - 1; i++) {
