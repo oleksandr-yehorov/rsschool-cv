@@ -4,7 +4,7 @@
    * Tel: +380505624750
    * E-Mail: sasha_yegorov@ukr.net
    * Skype: sasha_yegorov_1
-   * Github: [Github](github.com/oleksandr-yehorov)
+   * Github: (github.com/oleksandr-yehorov)
 
 3. About Me:
    * Well-organized
