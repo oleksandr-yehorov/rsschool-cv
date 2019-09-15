@@ -30,3 +30,7 @@
                 }
             for (i = 0; i < A.length; i++) resultArr[Count[i]] = A[i];
             return resultArr;
+
+6. Experience:
+   * Lecturer in Chernivtsi Polytechnical Collage
+   * Lecturer, Assistant of Department in Interregional Academy of Personal Management
