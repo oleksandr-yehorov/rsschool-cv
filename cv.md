@@ -39,3 +39,6 @@
    * Kottans Chernivtsi Front-end Course 2019
    * Yuriy Fedkovych Chernivtsi National University - Speciality 'Finance'
    * Chernivtsi Lyceum № 1 - Physics and mathematics profile
+
+8. English:
+   * Upper-Intermediate+ 
