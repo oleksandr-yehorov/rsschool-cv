@@ -37,6 +37,7 @@
     '''
     
     '''
+
     function CountingSort(A) {
             let Count = [],
                 resultArr = [];
@@ -50,4 +51,5 @@
             for (i = 0; i < A.length; i++) resultArr[Count[i]] = A[i];
             return resultArr;
             }
+            
     '''
