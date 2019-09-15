@@ -1,10 +1,10 @@
 1. **Oleksandr Yehorov**
 
 2. Contact Information:
-   Tel. +380505624750
-   E-Mail sasha_yegorov@ukr.net
-   Skype live: sasha_yegorov
-   Github: github.com/oleksandr-yehorov
+   * Tel: +380505624750
+   * E-Mail: sasha_yegorov@ukr.net
+   * Skype: sasha_yegorov_1
+   * Github: [Github](github.com/oleksandr-yehorov)
 
 3. About Me:
    * Well-organized
