@@ -1,0 +1,44 @@
+* {
+    max-width: 1024px;
+    background-color: rgb(178, 174, 179);
+    color: rgb(86, 18, 196);
+}
+
+img {
+    display: block;
+    width: 33%;
+    margin: 0 auto;
+    border: 1px solid gray;
+    border-radius: 30%;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    font-weight: 800;
+}
+
+h3, h4 {
+    line-height: 30px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 2em;
+    font-weight: 700;
+}
+
+h4 {
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+ul {
+    margin-left: 27%;
+    font-size: 1.3em;
+    font-weight: 500;
+    line-height: 24px;
+}
